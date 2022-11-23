@@ -25,3 +25,5 @@
 https://github.com/Cgossett2022/Belly-Button-Biodiversity/blob/main/samples.json
 
 ## Dashboard
+
+https://cgossett2022.github.io/Belly-Button-Biodiversity/
