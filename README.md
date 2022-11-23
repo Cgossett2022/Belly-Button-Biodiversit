@@ -1,11 +1,11 @@
 # Belly-Button-Biodiversity
 
 ## Overview
-- For this project, I used JavaScript, HTML, and Plotly to help Roza build a dashboard, which displays data about the bacteria found inside a person's belly button. 
+- For this project, I used JavaScript, HTML, and Plotly to help Roza build a dashboard to display data for the bacteria found inside a person's belly button. 
 
-- Roza can now use the Dashboard to analyze each person's Demographic Information, Top 10 Bacteria Cultures Found, How Frequently They Wash Their Bellybutton per Week, and Bacteria Cultures per Sample. 
+- Within the Dashboard, Roza can analyze each person's Demographic Information, Top 10 Bacteria Cultures Found, How Frequently a Person Washes Their Bellybutton per Week, and Bacteria Cultures per Sample. 
 
-## Results
+## Charts/Graphs
 
 1. Demographics Chart and Top 10 Bacteria Cultures Found
 
@@ -20,7 +20,7 @@
 
 ![bubble-chart-of-a-selected-individual-OTUs](https://user-images.githubusercontent.com/111243284/203454728-54f0b889-48f2-4507-9dca-0dcbd5bcb205.png)
 
-- Data Set
+## Data Set
 
 https://github.com/Cgossett2022/Belly-Button-Biodiversity/blob/main/samples.json
 
