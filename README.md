@@ -22,8 +22,12 @@
 
 ## Data Set
 
+- Below is the sample.json file I used in this analysis.
+
 https://github.com/Cgossett2022/Belly-Button-Biodiversity/blob/main/samples.json
 
 ## Dashboard
+
+- The final Dashboard can be found at the link below.
 
 https://cgossett2022.github.io/Belly-Button-Biodiversity/
